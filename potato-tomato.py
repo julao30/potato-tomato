@@ -1,5 +1,5 @@
 print()
-print("Witaj użytkowniku!")
+print("Witaj drogi użytkowniku!")
 
 imie= input("Podaj swoje imię: ")
 print("Nazywasz się", imie,". Bardzo mi miło!")
@@ -19,4 +19,4 @@ wiek = int(input("Podaj swój wiek: "))
 print(sprawdz_wiek(wiek))
 
 print()
-print("To tyle ode mnie. Dzięki za wypróbowanie mojego programu!")
+print("To tyle z mojej strony. Dzięki za wypróbowanie mojego programu!")
